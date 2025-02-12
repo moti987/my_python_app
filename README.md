@@ -1,3 +1,3 @@
-hehE This is me doing git for the first time on terminal.
+This is my python app
 
-its fun
+i did git for the frist time on terminal
